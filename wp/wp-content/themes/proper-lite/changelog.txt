@@ -1,0 +1,7 @@
+== Changelog ==
+
+= 1.1.1 =
+* Fix: bug fixes for hero section on tablets
+
+= 1.0.0 =
+* New Theme!.

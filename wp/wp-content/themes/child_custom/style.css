@@ -1,0 +1,92 @@
+/*
+ Theme Name:   customizr child
+ Theme URI:    http://example.com/twenty-fifteen-child/
+ Description:  customizr Theme
+ Author:
+ Author URI:   http://example.com
+ Template:     customizr
+ Version:      1.0.0
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
+ Text Domain:  proper-lite-child
+*/
+a+span.tc-external:after {
+display: none;
+}
+.tc-post-list-grid article .entry-title {
+    font-size: 20px;
+    line-height: 36px;
+}
+.social-media-button-container {
+  margin-top: 10px;
+}
+h3.menu-title {
+  padding: 10px;
+  background-color: #efefef;
+  font-size: 20px;
+}
+.menu-charge {
+  border: 0;
+}
+.menu-charge th {
+  text-align: left;
+  border: 0;
+  width: 220px;
+  font-size: 16px;
+}
+.menu-charge td {
+  text-align: left;
+  border: 0;
+  font-size: 16px;
+}
+.menu-desc-text {
+  border-bottom: 1px solid #dddddd;
+  padding-bottom: 10px;
+}
+.menu-alert {
+  line-height: 1.6;
+  font-size: 12px;
+  padding: 8px;
+  background-color: #f8f8f8;
+  margin-left: 0;
+}
+.menu-alert li {
+  line-height: 1.6;
+}
+.contact-list ul {
+  margin-left: 0;
+}
+
+.contact-list li {
+  font-size: 16px;
+  font-weight: bold;
+  padding: 8px;
+}
+#sow-button-4 {
+  margin-top: 10px;
+}
+.widget-title {
+  font-size: 18px;
+}
+.entry-title {
+  font-size: 24px;
+}
+footer#footer h3, footer#footer h4, footer#footer h5, footer#footer h6{
+  text-align: left;
+  font-size: 17px;
+  color: #444444;
+}
+#sow-button-5 {
+  margin-top: 10px;
+}
+footer#footer {
+  background-color: #efefef;
+
+}
+footer#footer a,.confit-phone,.confit-hours {
+  color: #444444;
+}
+.colophon {
+  display: none;
+}
