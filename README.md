@@ -1,4 +1,4 @@
 # wp-theme-custom
 
-####
-FTPの設定
+#### wpサイト
+- pushしたらFTPに反映
